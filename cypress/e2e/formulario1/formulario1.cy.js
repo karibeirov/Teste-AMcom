@@ -12,7 +12,7 @@ describe('Formulário 1', () => {
     
     const variaveisForm1 = {
 
-        // Dados corretos
+        // Dados para preenchimento com sucesso do formulário 1
         nome: 'Kamila', 
         sobrenome: 'Ribeiro', 
         telefoneFixo: '1141482525',

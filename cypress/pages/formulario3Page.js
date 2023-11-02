@@ -7,7 +7,6 @@ export default {
             labelFormulario3: '.card-header',
             botaoSaudacao: '#form3 > .btn',
 
-
         }
         return tela3
     }
