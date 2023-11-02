@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cypress": "^13.4.0"
+  },
+  "name": "teste-amcom",
+  "description": "teste kamila",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "devDependencies": {
+    "cypress-real-events": "^1.10.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
